@@ -3,12 +3,12 @@
 This project uses an **Arduino** to create a simple **Weather Station** that reads **temperature** and **humidity** using a **DHT11 sensor** and displays the data on a **16x2 LCD screen**. The data is also printed to the **Serial Monitor** for debugging purposes.
 
 ## Components Used
-- **Arduino (Uno, Nano, or similar)**
+- **Arduino (Uno)**
 - **DHT11 Temperature and Humidity Sensor**
 - **16x2 LCD Display (Parallel Connection, No I2C)**
 - **10kΩ Potentiometer** (for adjusting the LCD contrast)
 - **Jumper Wires**
-- **Breadboard** (optional)
+- **Breadboard** 
 
 ## Circuit Diagram
 The circuit connects the **DHT11 sensor** and **16x2 LCD** to the Arduino. 
